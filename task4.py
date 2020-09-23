@@ -4,7 +4,7 @@
 # Your program will ask the user to enter in the 2 short sides of a right triangle.
 # You will calculate the length of the hypotenuse and display the result.
 # You will need to use the math module to use the command that finds the square root.
-#
+# hi
 # Inputs:
 # side, side
 #
