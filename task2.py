@@ -14,7 +14,5 @@
 
 import math
 
-print("Imput radius")
-r = input()
-v = (4/3) * math.pi * (int(r) ** 3)
-print(v)
+r = float(input("Imput radius\n"))
+print((4/3) * math.pi * (r ** 3))

@@ -9,8 +9,6 @@
 # Sample output:
 # Your name is Joe Lunchbox, and your email is joe@koolsandwiches.org.
 
-print("What is your name?")
-n = input()
-print("What is your email?")
-e = input()
+n = input("What is your name?\n")
+e = input("What is your email?\n")
 print("Your name is " + n + ", and your email is " + e + ".")
